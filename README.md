@@ -9,6 +9,11 @@ why it is a good idea to iso dates
     Problem
       select the date closest be before a start data in an unordered array of dates
 
+      github
+     https://tinyurl.com/2e9hxekd
+     https://github.com/rogerjdeangelis/utl-why-it-is-a-good-idea-to-iso-dates/blob/main/README.md
+
+
     ISO dates (YYYY-MM-DD) sort correctly as plain text, just like numbers do.
     They are also easy for humans to read and understand, reducing ambiguity.
     They even lineup in columns for documentation purposes.
